@@ -1,0 +1,34 @@
+body {
+	background-color: lightblue;
+}
+.body1 {
+	background-image: url("../assets/bg1.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	padding-top: 10%;
+}
+.body2 {
+	background-image: url("../assets/bg3.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	text-align: center;
+	color: green;
+	font-size: 20px;
+}
+html {
+	height: 100%;
+	color : blue;
+}
+.welcome {
+	text-align: center;
+	color: navy;
+}
+.forms1 {
+	text-align: center;
+	margin-top: 5%;
+}
+.h2 {
+	color: green;
+}
